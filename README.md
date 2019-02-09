@@ -1,5 +1,11 @@
-# egmapjs
-leafletjs x 地理院地図(GSIMAP)  
+# geohack
 
-簡単で無料で活用できる地図API、leafletjs x 地理院地図  
-https://fukuno.jig.jp/2363  
+My sample program of GeoHack
+
+Using [Leafletjs](https://leafletjs.com/) and [GSIMaps](http://www.gsi.go.jp/)
+[egmapjs](https://taker-y.github.io/geohack/egmapjs.html)
+
+## Demo
+
+[My Sample Page](https://taker-y.github.io/geohack/)
+
